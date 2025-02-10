@@ -3,4 +3,6 @@
 ``` JavaScript
 var moh =1;
 ```
-
+- [ ] Hello!
+- [ ] World!
+- [x] Muhammad!
